@@ -8326,4 +8326,3 @@ Build 1.3.2.2:
 		Added new hooks for connection events, See IConnectionHandler for more details.
 		Added Packet250CustomPayload handeling and channel registraction management, see MessageManager and IPacketHandler for more details.
 		Forge now uses unsed fields in C->S Packet1Login to identify itself. None Forge clients will get a graceful disconnect message instead of the 'Unknown packet 230'
-
